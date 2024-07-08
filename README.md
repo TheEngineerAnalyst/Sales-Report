@@ -1,2 +1,2 @@
 # Sales-Report
-Simple Power BI dashboard using sales data
+Simple Power BI dashboard using sales data.
